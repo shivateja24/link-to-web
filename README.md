@@ -1,10 +1,10 @@
-#AI-Driven Chat Application
+# AI Driven Chat Application
 
-##This project is an AI-Driven Chat Application where users can chat with their friends, and their schedule gets updated dynamically based on the context of their conversations. The app features secure and intuitive user interfaces along with automated scheduling, powered by cutting-edge AI technologies.
+## This project is an AI-Driven Chat Application where users can chat with their friends, and their schedule gets updated dynamically based on the context of their conversations. The app features secure and intuitive user interfaces along with automated scheduling, powered by cutting-edge AI technologies.
 
-##Features
+## Features
 
-**AI-Driven Scheduling: Conversations trigger updates to the user's schedule automatically.
+**AI-Driven Scheduling:** Conversations trigger updates to the user's schedule automatically.
 
 **Secure and Intuitive UI:** The application provides a smooth, user-friendly experience with robust security features.
 
